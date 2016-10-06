@@ -1,9 +1,12 @@
-# Μαθηματικά 101 (2015-2016)
-### ΤΕΙ Ηπείρου 
-Τμήμα Μηχανικών Πληροφορικής Τ.Ε.
+# ΤΕΙ Ηπείρου 
+##Τμήμα Μηχανικών Πληροφορικής Τ.Ε.
+
+	Python jupyter σημειωματάρια για το μάθημα Μαθηματικά για μηχανικούς
+
+### Μαθηματικά 101 (2016-2017)
 
 
-Python jupyter σημειωματάρια για το μάθημα Μαθηματικά για μηχανικούς
+### Μαθηματικά 101 (2015-2016)
 
 * [ceteiep_00_basics](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_00_basics.ipynb)
 * [ceteiep_01_sets](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_01_sets.ipynb)
