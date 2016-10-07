@@ -4,8 +4,9 @@
 	Python jupyter σημειωματάρια για το μάθημα Μαθηματικά για μηχανικούς
 
 ### Μαθηματικά 101 (2016-2017)
-* [Μάθημα 05-10-2016](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161005.ipynb)
-* [Μάθημα 07-10-2016](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161007.ipynb)
+* [Μάθημα 05-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161005.ipynb)
+* [Μάθημα 07-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161007.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
 
 <!---
 ### Μαθηματικά 101 (2015-2016)
