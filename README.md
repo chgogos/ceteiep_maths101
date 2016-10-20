@@ -7,7 +7,9 @@
 * [Μάθημα 05-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161005.ipynb)
 * [Μάθημα 07-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161007.ipynb)
 * [Μάθημα 12-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161012.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
+* [Μάθημα 21-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161021.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy ΣΕΤ Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy ΣΕΤ Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
 
 <!---
 ### Μαθηματικά 101 (2015-2016)
