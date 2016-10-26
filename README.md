@@ -9,8 +9,8 @@
 * [Μάθημα 12-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161012.ipynb) Ορίζουσες - αντίστροφοι πινάκων, επίλυση συστήματος γραμμικών εξισώσεων με τη χρήση αντίστροφου πίνακα και με τη μέθοδο του Cramer
 * [Μάθημα 21-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161021.ipynb) Επίλυση συστημάτων γραμμικών εξισώσεων με τις συναρτήσεις του Sympy και του numpy
 * [Μάθημα 26-10-2016 σημειωματάριο](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026b.ipynb) Ηλεκτρικά κυκλώματα και συστήματα γραμμικών εξισώσεων
-* [Μάθημα 26-10-2016 matlab diary](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary για απλές πράξεις, ορισμό διανυσμάτων, πινάκων, υπολογισμό αναστρόφου, ορίζουσας, αντιστρόφου και επίλυση συστήματος γραμμικών εξισώσεων 
-* [Μάθημα 26-10-2016 matlab diary](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary σχεδίαση απλού γραφήματος
+* [Μάθημα 26-10-2016 matlab diary1](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary για απλές πράξεις, ορισμό διανυσμάτων, πινάκων, υπολογισμό αναστρόφου, ορίζουσας, αντιστρόφου και επίλυση συστήματος γραμμικών εξισώσεων 
+* [Μάθημα 26-10-2016 matlab diary2](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary02) Matlab diary για σχεδίαση απλού γραφήματος
 
   
 #### Ασκήσεις 
