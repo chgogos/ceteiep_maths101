@@ -11,8 +11,8 @@
 * [Μάθημα 26-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026b.ipynb) Ηλεκτρικά κυκλώματα και συστήματα γραμμικών εξισώσεων
 * [Μάθημα 26-10-2016 matlab diary1](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary για απλές πράξεις, ορισμό διανυσμάτων, πινάκων, υπολογισμό αναστρόφου, ορίζουσας, αντιστρόφου και επίλυση συστήματος γραμμικών εξισώσεων 
 * [Μάθημα 26-10-2016 matlab diary2](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary02) Matlab diary για σχεδίαση απλού γραφήματος
-* [Μάθημα 02-11-2016 matlab diary2](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary03) Matlab diary για τεμαχισμό πινάκων (slicing)
-* [Μάθημα 02-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026b.ipynb) Γεωμετρικοί μετασχηματισμοί
+* [Μάθημα 02-11-2016 matlab diary3](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary03) Matlab diary για τεμαχισμό πινάκων (slicing)
+* [Μάθημα 02-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026.ipynb) Γεωμετρικοί μετασχηματισμοί
 
 
   
