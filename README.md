@@ -13,13 +13,15 @@
 * [Μάθημα 26-10-2016 matlab diary2](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary02) Matlab diary για σχεδίαση απλού γραφήματος
 * [Μάθημα 02-11-2016 matlab diary3](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary03) Matlab diary για τεμαχισμό πινάκων (slicing)
 * [Μάθημα 02-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026.ipynb) Γεωμετρικοί μετασχηματισμοί
+* [Μάθημα 03-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161103.ipynb) Μιγαδικοί αριθμοί
 
 
   
 #### Ασκήσεις 
-* [Προαιρετικές ασκήσεις σε Python και sympy ΣΕΤ Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy ΣΕΤ Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy ΣΕΤ Γ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Γ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Δ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4.ipynb)  
 
 <!---
 ### Μαθηματικά 101 (2015-2016)
