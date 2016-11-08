@@ -19,7 +19,7 @@
 
 #### Ασκήσεις 
 * [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy Α' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1_solved.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Α' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1-solved.ipynb) 
 * [Προαιρετικές ασκήσεις σε Python και sympy Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
 * [Προαιρετικές ασκήσεις σε Python και sympy Γ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb)
 * [Προαιρετικές ασκήσεις σε Python και sympy Δ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4.ipynb)
