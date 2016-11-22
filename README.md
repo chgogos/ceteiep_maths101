@@ -17,8 +17,7 @@
 * [Μάθημα 09-11-2016 matlab diary 4](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary04) Μιγαδικοί αριθμοί στο Matlab
 * [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161109.ipynb) Σύνολα - πράξεις συνόλων
 * [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161116.ipynb) Καρτεσιανές - πολικές συντεταγμένες
-
-
+* [Μάθημα 23-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161118.ipynb) Συναρτήσεις - γραφικές παραστάσεις συναρτήσεων - μετασχηματισμοί συναρτήσεων
 
 #### Ασκήσεις 
 * [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
@@ -26,7 +25,9 @@
 * [Προαιρετικές ασκήσεις σε Python και sympy Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
 * [Προαιρετικές ασκήσεις σε Python και sympy Β' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2-solved.ipynb) 
 * [Προαιρετικές ασκήσεις σε Python και sympy Γ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Γ' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3-solved.ipynb)
 * [Προαιρετικές ασκήσεις σε Python και sympy Δ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Δ' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4-solved.ipynb)
 * [Προαιρετικές ασκήσεις σε Python και sympy Ε'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set5.ipynb)  
 
 <!---
