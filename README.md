@@ -18,6 +18,8 @@
 * [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161109.ipynb) Σύνολα - πράξεις συνόλων
 * [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161116.ipynb) Καρτεσιανές - πολικές συντεταγμένες
 * [Μάθημα 23-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161118.ipynb) Συναρτήσεις - γραφικές παραστάσεις συναρτήσεων - μετασχηματισμοί συναρτήσεων
+* [Μάθημα 25-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161123.ipynb) Δυνάμεις και λογάριθμοι 
+
 
 #### Ασκήσεις 
 * [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
