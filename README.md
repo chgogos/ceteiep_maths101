@@ -4,35 +4,35 @@
 	Python jupyter σημειωματάρια και matlab diaries για το μάθημα Μαθηματικά για μηχανικούς
 
 ### Μαθηματικά 101 (2016-2017)
-* [Μάθημα 05-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161005.ipynb) Αριθμητικοί υπολογισμοί στην Python και συμβολικοί υπολογισμοί στο Sympy
-* [Μάθημα 07-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161007.ipynb) Πίνακες στο Sympy
-* [Μάθημα 12-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161012.ipynb) Ορίζουσες - αντίστροφοι πινάκων, επίλυση συστήματος γραμμικών εξισώσεων με τη χρήση αντίστροφου πίνακα και με τη μέθοδο του Cramer
-* [Μάθημα 21-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161021.ipynb) Επίλυση συστημάτων γραμμικών εξισώσεων με τις συναρτήσεις του Sympy και του numpy
-* [Μάθημα 26-10-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026b.ipynb) Ηλεκτρικά κυκλώματα και συστήματα γραμμικών εξισώσεων
-* [Μάθημα 26-10-2016 matlab diary1](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary για απλές πράξεις, ορισμό διανυσμάτων, πινάκων, υπολογισμό αναστρόφου, ορίζουσας, αντιστρόφου και επίλυση συστήματος γραμμικών εξισώσεων 
-* [Μάθημα 26-10-2016 matlab diary2](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary02) Matlab diary για σχεδίαση απλού γραφήματος
-* [Μάθημα 02-11-2016 matlab diary3](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary03) Matlab diary για τεμαχισμό πινάκων (slicing)
-* [Μάθημα 02-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026.ipynb) Γεωμετρικοί μετασχηματισμοί
-* [Μάθημα 03-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161103.ipynb) Μιγαδικοί αριθμοί στην Python + Sympy
-* [Μάθημα 09-11-2016 matlab diary 4](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/matlab_diary04) Μιγαδικοί αριθμοί στο Matlab
-* [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161109.ipynb) Σύνολα - πράξεις συνόλων
-* [Μάθημα 16-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161116.ipynb) Καρτεσιανές - πολικές συντεταγμένες
-* [Μάθημα 23-11-2016 σημειωματάριο Python](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161118.ipynb) Συναρτήσεις - γραφικές παραστάσεις συναρτήσεων - μετασχηματισμοί συναρτήσεων
+* [Μάθημα 05-10-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161005.ipynb) Αριθμητικοί υπολογισμοί στην Python και συμβολικοί υπολογισμοί στο Sympy
+* [Μάθημα 07-10-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161007.ipynb) Πίνακες στο Sympy
+* [Μάθημα 12-10-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161012.ipynb) Ορίζουσες - αντίστροφοι πινάκων, επίλυση συστήματος γραμμικών εξισώσεων με τη χρήση αντίστροφου πίνακα και με τη μέθοδο του Cramer
+* [Μάθημα 21-10-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161021.ipynb) Επίλυση συστημάτων γραμμικών εξισώσεων με τις συναρτήσεις του Sympy και του numpy
+* [Μάθημα 26-10-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026b.ipynb) Ηλεκτρικά κυκλώματα και συστήματα γραμμικών εξισώσεων
+* [Μάθημα 26-10-2016 matlab diary1](https://github/chgogos/ceteiep_maths101/blob/master/matlab_diary01) Matlab diary για απλές πράξεις, ορισμό διανυσμάτων, πινάκων, υπολογισμό αναστρόφου, ορίζουσας, αντιστρόφου και επίλυση συστήματος γραμμικών εξισώσεων 
+* [Μάθημα 26-10-2016 matlab diary2](https://github/chgogos/ceteiep_maths101/blob/master/matlab_diary02) Matlab diary για σχεδίαση απλού γραφήματος
+* [Μάθημα 02-11-2016 matlab diary3](https://github/chgogos/ceteiep_maths101/blob/master/matlab_diary03) Matlab diary για τεμαχισμό πινάκων (slicing)
+* [Μάθημα 02-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161026.ipynb) Γεωμετρικοί μετασχηματισμοί
+* [Μάθημα 03-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161103.ipynb) Μιγαδικοί αριθμοί στην Python + Sympy
+* [Μάθημα 09-11-2016 matlab diary 4](https://github/chgogos/ceteiep_maths101/blob/master/matlab_diary04) Μιγαδικοί αριθμοί στο Matlab
+* [Μάθημα 16-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161109.ipynb) Σύνολα - πράξεις συνόλων
+* [Μάθημα 16-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161116.ipynb) Καρτεσιανές - πολικές συντεταγμένες
+* [Μάθημα 23-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161118.ipynb) Συναρτήσεις - γραφικές παραστάσεις συναρτήσεων - μετασχηματισμοί συναρτήσεων
 * [Μάθημα 25-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161123.ipynb) Δυνάμεις και λογάριθμοι 
 * [Μάθημα 30-11-2016 σημειωματάριο Python](https://github.com/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161206.ipynb) Τμηματικές συναρτήσεις, διαίρεση πολυωνύμων, επίλυση εξισώσεων 
 
 
 #### Ασκήσεις 
-* [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy Α' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1-solved.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy Β'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy Β' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2-solved.ipynb) 
-* [Προαιρετικές ασκήσεις σε Python και sympy Γ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy Γ' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3-solved.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy Δ'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy Δ' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4-solved.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy Ε'](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set5.ipynb)
-* [Προαιρετικές ασκήσεις σε Python και sympy E' με ΛΥΣΕΙΣ](https://nbviewer.jupyter.org/github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set5-solved.ipynb)    
+* [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Α' με ΛΥΣΕΙΣ](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1-solved.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Β'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Β' με ΛΥΣΕΙΣ](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set2-solved.ipynb) 
+* [Προαιρετικές ασκήσεις σε Python και sympy Γ'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Γ' με ΛΥΣΕΙΣ](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set3-solved.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Δ'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Δ' με ΛΥΣΕΙΣ](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set4-solved.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy Ε'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set5.ipynb)
+* [Προαιρετικές ασκήσεις σε Python και sympy E' με ΛΥΣΕΙΣ](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set5-solved.ipynb)    
 
 <!---
 ### Μαθηματικά 101 (2015-2016)
