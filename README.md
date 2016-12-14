@@ -20,7 +20,7 @@
 * [Μάθημα 23-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161118.ipynb) Συναρτήσεις - γραφικές παραστάσεις συναρτήσεων - μετασχηματισμοί συναρτήσεων
 * [Μάθημα 25-11-2016 σημειωματάριο Python](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161123.ipynb) Δυνάμεις και λογάριθμοι 
 * [Μάθημα 30-11-2016 σημειωματάριο Python](https://github.com/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161206.ipynb) Τμηματικές συναρτήσεις, διαίρεση πολυωνύμων, επίλυση εξισώσεων 
-
+* [Μάθημα 30-11-2016 σημειωματάριο Python](https://github.com/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_20161207.ipynb) Όρια συναρτήσεων
 
 #### Ασκήσεις 
 * [Προαιρετικές ασκήσεις σε Python και sympy Α'](https://github/chgogos/ceteiep_maths101/blob/master/ceteiep_maths101_exercises_set1.ipynb) 
